@@ -1,4 +1,4 @@
-name: test-package-deploy-pipeline #MWC
+name: test-package-deploy-pipeline 
 on:
   push:
     branches: [main]
